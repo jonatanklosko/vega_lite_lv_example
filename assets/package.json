@@ -11,7 +11,10 @@
     "phoenix": "file:../deps/phoenix",
     "phoenix_html": "file:../deps/phoenix_html",
     "phoenix_live_view": "file:../deps/phoenix_live_view",
-    "topbar": "^1.0.1"
+    "topbar": "^1.0.1",
+    "vega": "^5.22.0",
+    "vega-embed": "^6.20.8",
+    "vega-lite": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
