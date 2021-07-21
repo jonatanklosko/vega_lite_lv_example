@@ -3,7 +3,7 @@ defmodule VegaLiteLvExampleWeb.PageLive do
 
   @impl true
   def render(assigns) do
-    ~L"""
+    ~H"""
     <div>
     </div>
     """
